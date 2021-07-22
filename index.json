@@ -25,9 +25,16 @@
   "discounts": [],
   "taxes": [],
   "shipping": {
-    "address": null,
-    "method": null,
-    "cost": null
+    "address": {
+      "firstName": "Kevan",
+      "lastName": "Davis",
+      "line1": "2817 Kirin Rd",
+      "line2": "",
+      "city": "Carrollton",
+      "postalCode": "75007",
+      "country": "United States",
+      "phone": "8177913542"
+    }
   },
   "billing_address": null
 }
