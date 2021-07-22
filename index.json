@@ -4,7 +4,9 @@
     "id": null,
     "url": null
   },
-  "customer": null,
+  "customer": {
+    "email": "nettie.kevan.davis@gmail.com"
+  },
   "id": "01FB7PVKXPHCBKFX92MZ7DG6C8",
   "url": "https://github.com/git-ord/01FB7PVKXPHCBKFX92MZ7DG6C8.git",
   "status": "open",
